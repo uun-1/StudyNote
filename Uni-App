@@ -1,3 +1,4 @@
+一、HBuilderX
 1.下载Uni-App以及微信小程序---------------------------
 uni-app官网：https://www.dcloud.io/
 微信小程序官网：https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html
@@ -5,3 +6,5 @@ uni-app官网：https://www.dcloud.io/
 解压uni-app，运行exe文件，根据vue版本下载对应的插件
 3.运行
 运行uni-app
+二、命令行创建
+1.cmd运行npx degit dcloudio/uni-preset-vue#vite-ts 项目名称
